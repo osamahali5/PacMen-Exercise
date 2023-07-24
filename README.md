@@ -6,3 +6,5 @@ When you click the “Start Game” button, the pacman or pacmen created should 
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
 * open the index.html in your web broswer to get this game started.
+* Roadmap of future improvements: use a GIF to make motion of PacMen more smooth.
+* License information: MIT.
